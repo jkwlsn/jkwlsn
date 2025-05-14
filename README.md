@@ -1,4 +1,4 @@
-# DevOps bootcamp grad from Makers, London
+# Software engineering & DevOps bootcamp grad
 
 Career-switching junior software engineer with a background in writing, research, and digital content. Graduate of [Makers Academy](https://github.com/makersacademy)'s intensive 16-week DevOps and Software Engineering bootcamp. Skilled in TDD, Python, AWS, and CI/CD workflows, with strong communication, collaboration, and problem-solving abilities. Currently deepening knowledge in TypeScript, Node.js, and Vue.
 
