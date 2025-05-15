@@ -10,6 +10,6 @@ I'm open for work as of [May 2025](https://calendar.google.com/calendar/render?a
 
 Take a look at my work, bring me onboard as an open-source contributor, and put a face to the name and meet me for a coffee:
 - 📧 [hi@jkwlsn.dev](mailto:hi@jkwlsn.dev)
-- 🌐 [jkwlsn.dev](https://hi@jkwlsn.dev)
+- 🌐 [jkwlsn.dev](https://jkwlsn.dev)
 - 🤝 [linkedin.com/in/jkwlsn](https://www.linkedin.com/in/jkwlsn)
 - 📍 London, UK
