@@ -6,7 +6,6 @@ On the 16-week, full-time, on-site course, I gained practical experience in grou
 
 With a background in arts and culture writing, I have great experience discovering solutions to real world problems through interviews, communication, collaboration, and receiving and delivering feedback and turning news into compelling stories. I am creative, curious, highly adaptable and willing to put the work in to grow my knowledge and optimise my work.
 
-I'm open for work as of [May 2025](https://calendar.google.com/calendar/u/0/r/eventedit?text=Time+to+hire+Jacob+Wilson&dates=20250514T000000Z/20250515T000000Z&details=%3Ch2%3EJacob+Wilson+has+graduated+from+Makers+London%20%3C/h2%3E%3Cul%3E%3Cli%3EVirtual%20backgrounds!%3C/li%3E%20%3Cli%3ESilly%20stories!%3C/li%3E%3Cli%3ESnacks!%3C/li%3E%20%3C/ul%3E%3Cp%3EYou%20can%20message%20him%20%20%3Ca%20href=%22mailto:hello@jacobcharleswilson.com%3C/a%3E%3C/p%3E
-).
+I'm open for work as of [May 2025](https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250519%2F20250520&details=%3Col%3E%3Cli%3ECheck%20out%20%3Ca%20href%3D%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjkwlsn%22%3Elinkedin.com%2Fin%2Fjkwlsn%3C%2Fa%3E%3C%2Fli%3E%0A%3Cli%3ECheck%20out%20%3Ca%20href%3D%22https%3A%2F%2Fgithub.com%2Fjkwlsn%22%3Egithub.com%2Fjkwlsn%3C%2Fa%3E%3C%2Fli%3E%0A%3Cli%3EEmail%20%3Ca%20href%3D%22mailt%3Ahi%40jkwlsn.dev%22%3Ehi%40jkwlsn.dev%3C%2Fa%3E%3C%2Fli%3E%0A%3Cli%3E%3Cstrong%3EHire%20him%3C%2Fstrong%3E%3C%2Fli%3E%3C%2Fol%3E&location=London%2C%20UK&text=Jake%20Wilson%20has%20graduate%20from%20Makers%21).
 
 Take a look at my work, bring me onboard as an open-source contributor, and put a face to the name and meet me for a coffee: [hi@jkwlsn.dev](mailto:hi@jkwlsn.dev)
