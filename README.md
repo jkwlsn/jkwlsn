@@ -13,3 +13,10 @@ Take a look at my work, bring me onboard as an open-source contributor, and put 
 - 🌐 [jkwlsn.dev](https://jkwlsn.dev)
 - 🤝 [linkedin.com/in/jkwlsn](https://www.linkedin.com/in/jkwlsn)
 - 📍 London, UK
+
+## Projects
+
+Before I studied at Makers, I coded a few websites:
+- I helped design students at the Royal College of Arts, London, build their final project website: [rca-poster-archive.co.uk [defunct]](https://github.com/rca-poster-archive/rca-poster-archive/)
+- I rebuilt the website of a London-based art gallery / hair salon: [dkuk.biz [defunct]](https://github.com/jkwlsn/dkuk-wp-theme)
+- I rebuilt the website of Australian photography magazine _Paper Journal:_ [paper-journal.com [defunct]](https://github.com/Paper-Journal)
