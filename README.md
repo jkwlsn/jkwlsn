@@ -16,7 +16,25 @@ Take a look at my work, bring me onboard as an open-source contributor, and put 
 
 ## Projects
 
-Before I studied at Makers, I coded a few websites:
+### apis-api
+
+I'm drawing on my time spent working as a beekeeper to build [`apis-api`](https://github.com/jkwlsn/apis-api), a RESTful HTTP API for managing beehives. It's an work-in-progress designed to teach me new skills and Python techniques, as well as build a working application. Once the Python / Postgres / FastAPI backend is complete, I'll build a Typescript / Vue.js frontend. Watch and star the repo, and follow my progress on the [project page](https://github.com/users/jkwlsn/projects/3).
+
+### apis-app
+
+I'll be following up with `apis-app`, a TypeScript and Vue.js frontend. I'll be focusing on offline capabilities.
+
+## Older work
+
+Years before I studied at Makers, I taught myself web development fundamentals and coded a few websites:
 - I helped design students at the Royal College of Arts, London, build their final project website: [rca-poster-archive.co.uk [defunct]](https://github.com/rca-poster-archive/rca-poster-archive/)
+  - Opted for static site generator, vanilla CSS and JS for simplicity of design and speed.
+  - Built pipelines to generate responsive webp images.
+  - Hosted static assets on AWS S3.
 - I rebuilt the website of a London-based art gallery / hair salon: [dkuk.biz [defunct]](https://github.com/jkwlsn/dkuk-wp-theme)
-- I rebuilt the website of Australian photography magazine _Paper Journal:_ [paper-journal.com [defunct]](https://github.com/Paper-Journal)
+  - Mobile-first design
+  - Focused on performance
+- I rebuilt the website of Australian photography magazine _Paper Journal_: [paper-journal.com [defunct]](https://github.com/Paper-Journal)
+  - Rebuilt entire codebase: focused on mobile-first, high performance design, introduced responsive images, added static HTML cache, fixed broken infinite scroll.
+  - Cut load times from 500ms to 80ms.
+  - Achieved 97% on Lighthouse.
